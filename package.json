@@ -1,4 +1,7 @@
 {
+	"version": "1.2.0",
+	"license": "MIT",
+	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"description": "A project that does something awesome",
 	"author": "Huy Tran",
 	"name": "fcc-learn-npm-package-json",
